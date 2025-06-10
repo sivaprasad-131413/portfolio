@@ -1,0 +1,12 @@
+body{
+    font-family: "Roboto",sans-serif;
+    scroll-behavior: smooth;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+
+section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
